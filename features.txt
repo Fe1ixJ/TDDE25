@@ -1,0 +1,15 @@
+Counting score - 1pt
+Sounds - 1pt
+Hot Seat Multiplayer -1pt
+Hit Points - 1.5pt
+Respawn Protection - 1.5pt
+Unfair AI - 1pt
+Read Maps From JSON File -2pts
+Welcome Screen - 2.5pts
+Score Screen - 2.5ptss
+Additional Win Condition - 3pts
+CO-OP Mode -3pts
+Recoil - 2pts
+Explosion -2pts
+
+Total 24pts + 4 pts from milestones
